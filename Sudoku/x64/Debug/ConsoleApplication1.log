@@ -1,0 +1,12 @@
+﻿  PlayCommand.cpp
+  Block.cpp
+  Cell.cpp
+  Col.cpp
+  ConsoleUI.h
+  GUI.h
+  main.cpp
+  Row.cpp
+  UIInterface.h
+  Sudoku.cpp
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\10.21最终版\10.17\x64\Debug\ConsoleApplication1.exe
